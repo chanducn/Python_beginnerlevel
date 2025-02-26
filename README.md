@@ -4,3 +4,5 @@ String and its Functions
 list and its functions
 bitwise AND ,OR ,XOR
 Tuples and its Functions
+conditional_statements
+NUmpy library
